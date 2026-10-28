@@ -1,0 +1,666 @@
+MASTER PROMPT: C. SANTOSH KUMAR PROFESSIONAL PORTFOLIO WEBSITE
+
+Version 1.0 — Complete End-to-End Website Development
+
+1. Role and Objective
+
+Act as a senior full-stack developer, UI/UX designer, SEO specialist, database architect, and digital marketing consultant.
+
+Design and develop a complete, production-ready professional portfolio website for C. Santosh Kumar, a financial services and real estate professional with 17 years of experience.
+
+The website must establish professional credibility, explain the services offered, showcase property projects, generate qualified customer enquiries, and make it easy for visitors to connect through phone, WhatsApp, and email.
+
+The website must be mobile-first, responsive, fast-loading, secure, accessible, and ready for deployment.
+
+2. Professional Profile
+
+Use the following information as the initial website content.
+
+- Name: C. Santosh Kumar
+- Qualification: B.Com
+- Experience: 17 years
+- Professional focus: Financial services, banking, insurance, loans, and real estate
+- Business model: Authorized Direct Selling Agent (DSA) partnerships, subject to verification of current authorizations
+- Customer base: More than 10,000 clients, as stated in the supplied profile; verify before publishing
+- Geographic focus: Hyderabad and other serviceable locations in Telangana, subject to confirmation
+
+Contact details transcribed from the handwritten profile:
+
+- Phone: 9296206177
+- Email: cherukupally.santosh@gmail.com
+
+Treat these contact details as draft information and provide editable settings so they can be verified before launch.
+
+3. Technology Stack
+
+Build the application using the following stack:
+
+Frontend
+
+- React with TypeScript
+- Vite
+- Tailwind CSS
+- React Router
+- Lucide icons
+- Reusable, responsive components
+
+Backend
+
+- Python FastAPI
+- REST API architecture
+- Pydantic request validation
+- SQLAlchemy ORM
+
+Database
+
+- PostgreSQL for production
+- SQLite as an optional local-development database
+
+Integrations
+
+- WhatsApp click-to-chat
+- Phone call links
+- Email links and optional email enquiry notifications
+- Google Maps for verified business locations
+- Google Analytics, with appropriate consent and privacy controls
+
+Use current stable, compatible package versions. Keep secrets in environment variables and never expose credentials in frontend code.
+
+4. Website Design and Branding
+
+Create a premium corporate website appropriate for Indian financial services and real estate customers.
+
+Visual identity
+
+- Primary colour: Deep navy blue
+- Secondary colour: White
+- Accent colour: Gold
+- Supporting colour: Light grey
+- Typography: Clean, modern, highly readable fonts
+
+Design requirements:
+
+- Professional hero section with a strong headline
+- Clean navigation bar
+- Attractive service cards
+- Real estate project galleries
+- Experience and credibility section
+- Clear contact and enquiry buttons
+- Consistent spacing, shadows, icons, and typography
+- Responsive layouts for smartphones, tablets, laptops, and desktops
+- Accessible colour contrast, keyboard navigation, and form labels
+
+Do not use fake customer photographs, fabricated testimonials, or unlicensed property images. Use verified project photographs or properly licensed placeholder images.
+
+5. Website Pages and Navigation
+
+Develop the following pages.
+
+A. Home Page
+
+Create a professional landing page.
+
+Hero headline:
+“Your Trusted Partner in Financial Services and Real Estate.”
+
+Supporting description:
+“With 17 years of professional experience, C. Santosh Kumar helps customers explore financial service options, loan enquiries, insurance services, and property opportunities.”
+
+Primary buttons:
+
+- Explore Our Services
+- View Property Projects
+- Contact Us
+- Chat on WhatsApp
+
+Include:
+
+- Professional introduction
+- Experience and customer reach
+- Featured financial services
+- Featured property projects
+- Why Choose Us
+- Customer enquiry section
+- Footer with contact information and policies
+
+Display experience and customer numbers only as verified claims.
+
+B. About Us
+
+Create a detailed professional profile containing:
+
+- Introduction to C. Santosh Kumar
+- B.Com qualification
+- 17 years of experience
+- Banking and financial services experience
+- Insurance service experience
+- Real estate project experience
+- Customer service approach
+- Business values: transparency, responsiveness, and responsible guidance
+
+Do not invent employer names, employment history, certifications, awards, or professional affiliations.
+
+C. Financial Services
+
+Create a dedicated financial services page with separate service cards.
+
+Home Loans
+
+- Home purchase financing enquiries
+- Eligibility information
+- Documentation checklist
+- Application enquiry
+
+Construction Loans
+
+- Financing enquiries for house construction
+- General documentation information
+- Eligibility and lender assessment guidance
+
+Mortgage / Loan Against Property
+
+- Property-backed financing enquiries
+- Basic eligibility information
+- Enquiry submission
+
+Personal Loans
+
+- General personal loan enquiries
+- Eligibility information
+- Required-document guidance
+
+Business Loans
+
+- Financing enquiries for eligible businesses
+- General business documentation guidance
+- Application enquiry
+
+Education Loans
+
+- Education financing enquiries
+- General student documentation checklist
+- Application enquiry
+
+Insurance-Related Services
+
+- Life insurance information and enquiries
+- Insurance product enquiries
+- Assistance connecting with appropriately authorized providers
+
+Important: Do not promise loan approval, guaranteed interest rates, guaranteed insurance benefits, or instant disbursement. Display lender-specific terms only when verified and authorized.
+
+D. Banking and Financial Partner Directory
+
+Create an editable partner directory based on the supplied handwritten profile.
+
+Names appearing in the profile include:
+
+- LIC Housing Finance (LIC HFL)
+- GIC HFL — exact organization name and current relationship to be verified
+- Can Fin Homes — exact name and current authorization to be verified
+- Other authorized DSA and financial institution relationships
+
+Each partner entry should support:
+
+- Organization name
+- Official logo, where permitted
+- Service categories
+- Relationship status
+- Applicable disclosures
+- Official website link
+- Enquiry action
+
+Show the label “Authorized Partner” only after the relevant authorization is verified and current. Otherwise, use “Institution Information” or “Enquiry Support.”
+
+Do not imply that the website is owned, operated, or officially endorsed by a bank, insurer, or housing finance company.
+
+E. Real Estate Projects
+
+Create a dedicated property portfolio page with a professional project gallery.
+
+Initial projects transcribed from the handwritten profile:
+
+- Shanmukha Sankalp Apartments — stated as approximately 90 flats; verify project details and the exact nature of involvement.
+- Anagha Western — spelling and project details to be verified.
+- Parambh — exact project name to be verified.
+- Independent Houses — individual property listings to be confirmed.
+- S.V. Constructions — exact business name and project association to be verified.
+
+For every project, create an editable project record containing:
+
+- Project name
+- Project category
+- Location
+- Short description
+- Project photographs
+- Total units, if verified
+- Property type
+- Availability status
+- Price range, if authorized and verified
+- Amenities
+- Project status
+- RERA registration details, where applicable
+- Contact and enquiry button
+
+Project categories:
+
+- Apartments
+- Independent Houses
+- Residential Properties
+- Construction Projects
+- Other verified property opportunities
+
+Do not invent locations, ownership, developer affiliations, prices, approvals, possession dates, or property availability.
+
+Where applicable, verify project registration and advertising requirements under Telangana RERA and other relevant regulations before publishing listings.
+
+F. Contact Us
+
+Create a dedicated contact page with:
+
+- Phone number
+- Email address
+- WhatsApp contact button
+- Contact enquiry form
+- Business address, once confirmed
+- Business hours, once confirmed
+- Map integration, only after the location is verified
+
+Contact form fields:
+
+- Full name
+- Phone number
+- Email address (optional)
+- Service required
+- Preferred contact method
+- Message
+- Consent to be contacted
+
+Service dropdown:
+
+- Home Loan
+- Construction Loan
+- Loan Against Property
+- Personal Loan
+- Business Loan
+- Education Loan
+- Insurance
+- Real Estate / Property
+- Other
+
+After submission, validate the form and display a clear confirmation message.
+
+G. Privacy Policy and Terms
+
+Create the following pages:
+
+- Privacy Policy
+- Terms and Conditions
+- Disclaimer
+- Cookie and analytics disclosures, where applicable
+
+Explain how enquiry information is collected, used, retained, and protected. Obtain appropriate consent for contact and marketing communications.
+
+Include a clear disclaimer that loan approval, rates, eligibility, insurance coverage, and property transactions are subject to the relevant institution's or seller's terms and verification.
+
+6. Customer Enquiry and Lead Management System
+
+Implement a functional lead management module.
+
+Lead lifecycle
+
+1. Visitor opens a service or project page.
+2. Visitor submits an enquiry.
+3. Frontend validates the information.
+4. Backend validates and sanitizes the request.
+5. Lead is stored in PostgreSQL.
+6. System generates a unique lead reference.
+7. Customer sees a confirmation message.
+8. Authorized staff can review and update the lead.
+
+Lead statuses
+
+- New
+- Contacted
+- Follow-up Required
+- Qualified
+- Converted
+- Closed
+
+Each lead record should include:
+
+- Unique ID
+- Customer name
+- Contact information
+- Requested service
+- Related property project, if applicable
+- Enquiry description
+- Consent record
+- Creation timestamp
+- Assigned staff member
+- Current status
+- Follow-up notes
+
+Implement pagination, filtering, search, and status updates in the administration interface.
+
+Do not expose customer leads through public APIs.
+
+7. Admin Dashboard
+
+Create a secure admin dashboard to manage website content without editing source code.
+
+Dashboard overview
+
+- Total enquiries
+- New enquiries
+- Enquiries by service
+- Project enquiry counts
+- Follow-ups pending
+- Recent enquiries
+
+Management modules
+
+- Lead management
+- Service management
+- Property project management
+- Project photo management
+- Partner directory management
+- Contact information settings
+- Website content management
+- Basic analytics
+
+Allow administrators to add, edit, publish, unpublish, and archive property projects and services.
+
+Use secure authentication, role-based permissions, server-side authorization, password hashing, login rate limiting, and secure session management. Do not implement a default production administrator password.
+
+8. Backend API Design
+
+Implement versioned REST APIs using the "/api/v1" prefix.
+
+Suggested endpoints:
+
+Public APIs
+
+- "GET /api/v1/services"
+- "GET /api/v1/services/{slug}"
+- "GET /api/v1/projects"
+- "GET /api/v1/projects/{slug}"
+- "GET /api/v1/partners"
+- "POST /api/v1/enquiries"
+- "GET /api/v1/site-settings/public"
+
+Authentication
+
+- "POST /api/v1/auth/login"
+- "POST /api/v1/auth/logout"
+- "GET /api/v1/auth/me"
+
+Protected administration APIs
+
+- "GET /api/v1/admin/enquiries"
+- "GET /api/v1/admin/enquiries/{id}"
+- "PATCH /api/v1/admin/enquiries/{id}"
+- "GET /api/v1/admin/dashboard"
+- CRUD endpoints for projects, services, partners, and site settings
+
+All protected endpoints must verify authentication and permissions on the server.
+
+Add API documentation through FastAPI's OpenAPI/Swagger interface in development. Restrict or disable sensitive documentation in production as appropriate.
+
+9. Database Architecture
+
+Create database tables for:
+
+- "users"
+- "roles"
+- "services"
+- "projects"
+- "project_images"
+- "partners"
+- "enquiries"
+- "enquiry_notes"
+- "site_settings"
+- "audit_logs"
+
+Define primary keys, foreign keys, timestamps, appropriate indexes, data validation, and database migrations.
+
+Store uploaded images using a suitable object-storage service in production, with file type and size validation. Do not store uploaded files under publicly executable paths.
+
+10. WhatsApp, Phone and Email Integration
+
+Implement the following:
+
+WhatsApp
+
+- Add a floating WhatsApp button.
+- Open a chat with the configured business number.
+- Pre-fill a service-specific message when appropriate.
+- Never automatically send a message without the customer's action.
+
+Phone
+
+- Add clickable "tel:" links for mobile users.
+
+Email
+
+- Add clickable "mailto:" links.
+- Optionally configure backend email notifications for new enquiries using verified SMTP credentials.
+
+Provide fallback behaviour if email delivery fails. The enquiry must remain saved even when notification delivery fails.
+
+11. SEO and Digital Marketing
+
+Optimize the website for relevant searches such as:
+
+- Financial services consultant
+- Home loan enquiry assistance
+- Construction loan enquiry
+- Loan against property enquiry
+- Insurance services
+- Residential property projects
+- C. Santosh Kumar financial services
+
+Use location-specific keywords only after the business service area has been confirmed.
+
+Implement:
+
+- Unique page titles and meta descriptions
+- Canonical URLs
+- XML sitemap
+- Robots.txt
+- Open Graph metadata
+- Descriptive image alt text
+- Structured data appropriate to the actual business
+- Internal linking
+- Search-friendly project pages
+- Human-readable URLs
+- Google Search Console readiness
+
+Do not use fabricated ratings, reviews, or misleading financial-product structured data.
+
+12. Security, Privacy and Compliance
+
+Implement:
+
+- HTTPS in production
+- Environment-based secrets
+- Input validation
+- Parameterized database queries through the ORM
+- Protection against SQL injection and cross-site scripting
+- CSRF protection where applicable
+- Secure authentication and authorization
+- Rate limiting and spam prevention
+- Safe image upload handling
+- Restricted CORS configuration
+- Audit logging for sensitive administrative changes
+- Database backup and recovery procedures
+- Appropriate data retention and deletion procedures
+
+Collect only information necessary to process customer enquiries. Do not collect Aadhaar, PAN, bank account details, passwords, or other sensitive financial documents through the public enquiry form.
+
+Before launch, review applicable Indian privacy requirements, financial-service advertising rules, lender and insurer requirements, and real estate regulations.
+
+13. Performance and Accessibility
+
+Target:
+
+- Fast initial page rendering
+- Responsive images
+- Lazy loading for below-the-fold media
+- Code splitting where appropriate
+- Minimal unnecessary JavaScript
+- Efficient API queries
+- Accessible forms and navigation
+- WCAG 2.2 AA as the accessibility target
+
+Use Lighthouse to evaluate performance, accessibility, SEO, and best practices. Treat scores as testing targets rather than guaranteed results.
+
+14. Testing and Quality Assurance
+
+Write automated tests for:
+
+- Public page rendering
+- Service and project filtering
+- Enquiry form validation
+- Successful and failed enquiry submissions
+- Database persistence
+- Authentication and permissions
+- Lead status updates
+- Unauthorized API access
+- Responsive layouts
+- Contact links
+- Error and loading states
+
+Use:
+
+- Vitest and React Testing Library for frontend tests
+- Pytest for backend tests
+- Playwright for end-to-end browser tests
+
+Verify that public visitors cannot access administrative records and that failed notifications do not cause submitted leads to be lost.
+
+15. Deployment and DevOps
+
+Prepare the application for deployment using:
+
+- Vercel or an equivalent frontend hosting platform
+- Render, Railway, or another suitable FastAPI hosting platform
+- Managed PostgreSQL
+- Cloud object storage for property images
+- A verified custom domain
+- HTTPS
+- Environment-specific configuration
+
+Provide:
+
+- ".env.example" without real secrets
+- Database migration scripts
+- Seed data for clearly labelled sample projects
+- Production build commands
+- Deployment instructions
+- Backup instructions
+- Error monitoring guidance
+- README documentation
+
+Do not commit credentials, real customer records, or production secrets to source control.
+
+16. Recommended Project Structure
+
+santosh-portfolio/
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── layouts/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── hooks/
+│   │   ├── types/
+│   │   └── utils/
+│   ├── public/
+│   └── package.json
+├── backend/
+│   ├── app/
+│   │   ├── api/
+│   │   ├── core/
+│   │   ├── models/
+│   │   ├── schemas/
+│   │   ├── services/
+│   │   ├── repositories/
+│   │   └── main.py
+│   ├── tests/
+│   └── requirements.txt
+├── database/
+│   └── migrations/
+├── docs/
+├── .env.example
+└── README.md
+
+17. Development Roadmap
+
+Phase 1 — Requirements and content
+
+- Verify name, phone, email, partner relationships, and property project names.
+- Collect professional photographs, logos, project details, and permissions.
+- Finalize branding and page structure.
+
+Phase 2 — UI/UX development
+
+- Create the home page and responsive layouts.
+- Build services, about, projects, and contact pages.
+- Add navigation and contact actions.
+
+Phase 3 — Backend and database
+
+- Create FastAPI services.
+- Configure PostgreSQL and migrations.
+- Implement enquiries and content APIs.
+
+Phase 4 — Admin dashboard
+
+- Add secure login.
+- Implement lead management.
+- Build project and service management screens.
+
+Phase 5 — Integrations
+
+- Configure WhatsApp and phone links.
+- Configure optional email notifications.
+- Add analytics and SEO metadata.
+
+Phase 6 — Testing and security
+
+- Execute functional, API, security, and responsive tests.
+- Verify authorization and privacy controls.
+- Fix critical defects.
+
+Phase 7 — Deployment
+
+- Deploy frontend and backend.
+- Configure database, domain, HTTPS, and secrets.
+- Test production enquiry submission.
+- Enable monitoring and backups.
+
+Phase 8 — Marketing and growth
+
+- Publish verified property listings.
+- Add approved customer testimonials, where available.
+- Publish useful educational content about loans and insurance.
+- Track enquiry sources and conversions.
+- Improve website content based on actual customer needs.
+
+18. Final Acceptance Criteria
+
+The project is complete only when:
+
+1. All public pages work on mobile and desktop.
+2. Service and property information can be maintained through the admin dashboard.
+3. Enquiries are validated and saved in the database.
+4. Phone, WhatsApp, and email links work with verified contact details.
+5. Administrators can securely manage enquiries.
+6. Public visitors cannot access private customer information.
+7. SEO metadata and sitemap are configured.
+8. Automated tests pass for critical workflows.
+9. Deployment documentation is complete.
+10. Unverified claims, partner authorizations, project names, and property details are clearly marked for confirmation rather than presented as facts.
+
+Deliver the actual working application, not merely a static design or demonstration screenshot. Build incrementally, run the tests, fix errors, and provide the source code, setup instructions, deployment instructions, and a list of any remaining configuration requirements.
